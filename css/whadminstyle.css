@@ -1,0 +1,52 @@
+#admin_account_table table {border :1px;}
+#admin_account_table th {border:1px solid #888;background-color:#dedede;padding:5px;}
+#admin_account_table td {border:1px solid #cdcdcd;padding:2px;}
+
+#admin_account_table .wh_button-primary{
+	border-top:		2px solid #a3ceda;
+	border-left:		2px solid #a3ceda;
+	border-right:		2px solid #4f6267;
+	border-bottom:		2px solid #4f6267;
+	padding:		5px 10px !important;
+	font-size:		12px !important;
+	background-color:	#c4f1fe;
+	font-weight:		bold;
+	color:			#2d525d;
+width:100%;
+
+}
+
+#admin_account_table input[type="submit"]:hover {
+    background-color:	#0000ff;
+    color: #fff;
+}
+
+
+#admin_account_suspend_table table {border :1px;}
+#admin_account_suspend_table th {border:1px solid #888;background-color:#dedede;padding:5px;}
+#admin_account_suspend_table td {border:1px solid #cdcdcd;padding:2px;}
+
+#admin_account_suspend_table .wh_button-primary{
+	border-top:		2px solid #a3ceda;
+	border-left:		2px solid #a3ceda;
+	border-right:		2px solid #4f6267;
+	border-bottom:		2px solid #4f6267;
+	padding:		5px 10px !important;
+	font-size:		12px !important;
+	background-color:	#c4f1fe;
+	font-weight:		bold;
+	color:			#2d525d;
+width:auto;
+}
+#admin_account_suspend_table input[type="submit"]:hover {
+    background-color:	#0000ff;
+    color: #fff;
+}
+ .whmessageboxred{margin-bottom:15px;height:auto;width:50%;border-top: 4px solid #ff0000;border-left: 6px solid #ff0000;background:#fff;
+ border-radius: 0px 6px 6px 0px;-moz-border-radius: 0px 6px 6px 0px;-webkit-border-radius: 0px 6px 6px 0px;padding-bottom:10px;
+ padding-left:6px;color: #000;padding-left:15px;padding-top:15px;}
+ 
+ .whmessageboxgreen{margin-bottom:15px;height:auto;width:50%;border-top: 4px solid #00ff00;border-left: 6px solid #ff0000;background:#fff;
+ border-radius: 0px 6px 6px 0px;-moz-border-radius: 0px 6px 6px 0px;-webkit-border-radius: 0px 6px 6px 0px;padding-bottom:10px;
+ padding-left:6px;color: #000;padding-left:15px;padding-top:15px;}
+ 

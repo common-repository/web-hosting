@@ -1,0 +1,978 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: English UK\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: David Gennoe\n"
+"MIME-Version: 1.0\n"
+"Language: en_GB\n"
+"X-Generator: Poedit 2.0.2\n"
+
+#. Text in function
+#: language-UK.php:3
+msgid "&pound;"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "1 Year"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "2 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "3 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "4 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "5 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "6 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "7 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "8 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "9 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "10 Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Add To Cart"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Add to basket"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Add-ons"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Addon"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "After you have noted the authorisation code, you will then need to provide this code to the new registrar that you wish to transfer your domain to. They will be able to advise you on their steps to transfer the domain to them."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "After you have noted the authorisation code, you will then need to provide this code to the new registrar that you wish to transfer your domain to. They will be able to advise you on their steps to transfer the domain to them.<br /> Once the transfer is approved it can take upto 7 days to transfer."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Amount Due:"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "As you are purchasing an SSL certificate we required a domain name to go with your certificate"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "As you have not purchased a domain we required a domain name for your hosting package"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Auth Code"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Auth Code is required for the following TLDs (extensions) You can leave this here blank and submit the code at a later date."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Authorisation code to transfer the Domain Name"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Change"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Change Nameservers"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Change Nameserves"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Check"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Congratulations"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Continue Shopping"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Control Panel"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Cost"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Cpanel Password"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Cpanel Settings"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Cpanel Username"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Cpanel login"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Customer Invoice"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Days"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Dear"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain Expires:"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain Name"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain Name SSL"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain Name:"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain Prices"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain Registered"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain Secret"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain Status"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain expires"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain has been Locked"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain has been Unlocked"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain name"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domain secret"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Domains"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Due Date"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Due Date:"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Email Settings"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Error"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Error nameserver 01 has not been updated incorrect format used"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Error nameserver 02 has not been updated incorrect format used"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Error nameserver 03 has not been updated incorrect format used"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Error nameserver 04 has not been updated incorrect format used"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Error not valid url."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "FTP Settings"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "From"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "From your account controlpanel you can manage your domains, hosting packages and addons."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "GBP"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Go"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Hello"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Hosting"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Hosting Packages"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "ID"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "If paying via Paypal Please login to your account area to make payment."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "If you are using an existing domain with your new hosting account, you will need to update the nameservers to point to the nameservers listed below."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "If you are using one of the domains that is in your cart then please tell us which one"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "If you are using the domain that is in your cart then leave this blank"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Invoice"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Invoice Date"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Invoice Date:"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Invoice No"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Invoiced To"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Is Available but someone else may own the corresponding third-level name eg"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Is Available to register for"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Is Not Available"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Is not available to transfer but Is Available to register"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Is not available to transfer but Is Available to register but someone else may own the corresponding third-level name eg"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Item"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Lock Domain"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Locked"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Log out"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Login to Cpanel"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Logout"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Manage Domain"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "My Account"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Name Server 1 and Name Server 2 require valid names"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Name Server 1 requires a valid name"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Name Server 2 requires a valid name"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Namersever 1"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Namersever 2"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Namersever 3"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Namersever 4"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Nameserver"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Nameserver 1"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Nameserver 2"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Nameserver 3"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Nameserver 4"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Nameserver for"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Nameservers"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Number Of Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Once the transfer is approved it can take upto 7 days to transfer."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Order"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Order Complete"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Order No"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Overdue Invoice"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "POP3 Host Address"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Package"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Please contact customer."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Please enter domain name for you hosting"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Please enter domain name for your hosting"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Please enter domain name for your hosting and ssl cert"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Please enter domain name for your ssl cert"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Please login to view this page"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Please note Customer"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Please suspend their account"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Qty"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Register Domain Notice"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Resellerclub Account No:"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "SMTP Host Address"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "SSL"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "SSL Certificate"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Search Domain Name"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Security token as expired please reload the page"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Select"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Select TLD"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Server Address"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Server IP"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Server Name"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Server Settings"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Sorry"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Sorry Unknown error occurred, please try again later"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Sub Total"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Suspend Account"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "TLD"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Tax Total"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Temporary Cpanel login"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Temporary Site Access"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "This is a notice that an invoice has been generated on"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "This is the plain text version of the email content"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "This system already has an account named"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Total"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Transfer Domain Name"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Unknown error: please check domain is valid"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Unlock Domain"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Unlocked"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Website Url when domain has propagated"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Year"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Years"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You cannot add more than 1 SSL Certificate at a time."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You cannot add more than 1 domain at a time."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You cannot add more than 1 hosting package at a time."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You have an outstanding invoice No"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You have no add-ons"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You have no domain"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You have no domains"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You have no hosting"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "You will receive additional reminders before the renew date"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Your Domain"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "Your payment method is:"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "cannot get resellerclub account id"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "could not be created"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "could not create password."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "domain"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "domain is available but we are currently not selling"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "ftp Hostname"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "ftp password same as Cpanel password"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "has an overdue invoice"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "has been completed please allow upto 72 hours for changes to take effect"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "has been completed please allow upto 72 hours for changes to take effect."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "has been found in the database."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "has not paid their last invoice"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "is available to transfer"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "is due to be renewed in"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "is not a valid URL"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "nameservers was not updated"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "nameservers was not updated please check you are using a valid name and try again"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "order"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "per month"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "per year"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "please check domain name is valid"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "please pay this to prevent your account being suspended"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "status"
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "this domain will be reserved for this registrant."
+msgstr ""
+
+#. Text in function
+#: language-UK.php:3
+msgid "we are awaiting payment"
+msgstr ""
